@@ -1,5 +1,5 @@
 {
-  "name": "SkyBot",
+  "name": "LegacyV3",
   "version": "1.0.0",
   "description": "Simple Base Source Code Bot WhatsApp.",
   "type": "module",
@@ -14,7 +14,7 @@
     "Whatsapp",
     "bot"
   ],
-  "author": "ArifzynXD",
+  "author": "Rulzz",
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
